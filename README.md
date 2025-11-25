@@ -5,7 +5,7 @@ Standalone and versionable archive of n8n workflows from the official [n8n.io/wo
 
 ## 👥 Join the Free Public Discord or Facebook Community
 
-- Discord: [https://discord.gg/rQWHMM2wKw](More Net Worth Discord)
+- Discord: [https://discord.gg/rQWHMM2wKw](MoreNetWorth Discord)
 - Facebook: [https://www.facebook.com/groups/innovativedigitalentrepreneurs](AI Automated Millionaires)
 
 ---
