@@ -2,7 +2,6 @@
 
 Standalone and versionable archive of n8n workflows from the official [n8n.io/workflows](https://n8n.io/workflows) website. This repository allows you to preserve, version, and reuse workflow templates in minimal format, ready to be imported offline.
 
-[n8nworkflows.xyz](https://n8nworkflows.xyz)
 
 ## 👥 Join the Free Public Discord or Facebook Community
 
