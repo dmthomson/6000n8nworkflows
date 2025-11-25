@@ -34,7 +34,22 @@ Why self-host?
 - No workflow limitations
 - Better performance
 - Cost-effective scaling
+  
+---
 
+## 🎓 Step 3: Join Our Premium Community
+
+Stop struggling alone. Get expert help and advanced techniques.
+
+- AI Skool Community: [https://aiskool.to](https://aiskool.to)
+- Use AI to generate Passive Income
+- Price: $25/month (increases to $40 at 200 members)
+- Daily workflow breakdowns and troubleshooting
+- Network with automation professionals
+- Exclusive: Advanced workflow templates not available anywhere else
+- Private: Direct access to workflow experts
+- Bonus: Monthly live implementation workshops
+  
 ---
 
 ## 📋 Table of Contents
