@@ -36,7 +36,7 @@ Why self-host?
   
 ---
 
-## 🎓 Step 3: Join Our Premium Community
+## 🎓 Join Our Premium Community
 
 Stop struggling alone. Get expert help and advanced techniques.
 
