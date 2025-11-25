@@ -8,8 +8,8 @@ Your automations handle the work. Use these links to turn workflows into revenue
 
 Start here when you want feedback, ideas, and support.
 
-- Discord: MoreNetWorth Discord
-- Facebook: AI Automated Millionaires
+- Discord: [MoreNetWorth Discord](https://discord.gg/rQWHMM2wKw)
+- Facebook: [AI Automated Millionaires](https://www.facebook.com/groups/innovativedigitalentrepreneurs)
 
 ---
 
