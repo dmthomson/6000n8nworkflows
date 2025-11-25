@@ -4,6 +4,37 @@ Standalone and versionable archive of n8n workflows from the official [n8n.io/wo
 
 [n8nworkflows.xyz](https://n8nworkflows.xyz)
 
+## 👥 Join the Free Public Discord or Facebook Community
+
+- Discord: [https://discord.gg/rQWHMM2wKw](https://discord.gg/rQWHMM2wKw)
+- Facebook: [https://www.facebook.com/groups/innovativedigitalentrepreneurs](https://www.facebook.com/groups/innovativedigitalentrepreneurs)
+
+---
+
+## 💰 Turn Automation Into Income
+
+[AI Bots Mastery Course](https://goaibots.com)
+
+Learn how to:
+
+- Build AI bots for clients
+- Create passive income streams
+- Scale your automation business
+- Price your services professionally
+
+---
+
+## 🖥️ Reliable n8n Hosting
+
+[VPS Hosting Under $5/Month](https://n8nhosting.com)
+
+Why self-host?
+
+- Complete control over your data
+- No workflow limitations
+- Better performance
+- Cost-effective scaling
+
 ---
 
 ## 📋 Table of Contents
